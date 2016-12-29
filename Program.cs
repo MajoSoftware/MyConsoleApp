@@ -10,8 +10,8 @@ namespace TestConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world...");
-
+            Console.WriteLine("Hello world - changed remote...");
+            Console.WriteLine("Second line");
         }
     }
 }
