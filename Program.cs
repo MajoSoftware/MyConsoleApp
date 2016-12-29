@@ -12,6 +12,7 @@ namespace TestConsoleApp
         {
             Console.WriteLine("Hello world - changed remote...");
             Console.WriteLine("Second line...");
+            Console.WriteLine("Third line...");
         }
     }
 }
