@@ -10,5 +10,7 @@ namespace TestConsoleApp.Folder1
     {
         public int MyInt { get; set; }
         public int MySecondInt { get; set; }
+
+        public int MyMaster1Int { get; set; }
     }
 }
