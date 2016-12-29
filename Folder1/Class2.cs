@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TestConsoleApp.Folder1
 {
-    class Class2
+    public class Class2
     {
     }
 }
