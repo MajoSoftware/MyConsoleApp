@@ -16,5 +16,7 @@ namespace TestConsoleApp.Folder1
         public int MyFeauture1Int { get; set; }
 
         public int MyFeature2Int { get; set; }
+
+        public int MyMaster3Int { get; set; }
     }
 }
