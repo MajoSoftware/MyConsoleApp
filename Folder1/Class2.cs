@@ -8,5 +8,6 @@ namespace TestConsoleApp.Folder1
 {
     public class Class2
     {
+        public int MyInt { get; set;  }
     }
 }
