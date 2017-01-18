@@ -10,6 +10,8 @@ namespace TestConsoleApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello world local");
+            Console.WriteLine("Tweede regel lokaal aangemaakt in feature1");
             Console.WriteLine("Hello world - changed remote...");
             Console.WriteLine("Second line...");
             Console.WriteLine("Third line...");
