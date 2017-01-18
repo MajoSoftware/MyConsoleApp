@@ -14,6 +14,8 @@ namespace TestConsoleApp
             Console.WriteLine("Second line...");
             Console.WriteLine("Third line...");
             Console.WriteLine("Fourth line...");
+
+            Console.WriteLine("Fifth line...");
         }
     }
 }
