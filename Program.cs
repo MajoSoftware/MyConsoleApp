@@ -11,6 +11,7 @@ namespace TestConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world local");
+            Console.WriteLine("Tweede regel lokaal aangemaakt in feature1");
         }
     }
 }
